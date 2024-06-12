@@ -5,3 +5,4 @@ nltk
 xgboost
 IPython
 imblearn
+seaborn
